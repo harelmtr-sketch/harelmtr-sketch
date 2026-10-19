@@ -41,6 +41,23 @@ A 2D fighting game with flight, combos, and physics-based combat. Mostly an excu
 
 ## 🛠️ Tech behind the projects
 
-<img alt="Swift, React, TypeScript, Flutter, Dart, Unity, C#, Supabase, PostgreSQL, Sentry, Git and GitHub" src="https://skillicons.dev/icons?i=swift,react,ts,flutter,dart,unity,cs,supabase,postgres,sentry,git,github&amp;theme=light&amp;perline=6" />
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=swift&amp;theme=light" width="42" height="42" alt="Swift logo" /><br /><sub>Swift</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react&amp;theme=light" width="42" height="42" alt="React Native logo" /><br /><sub>React Native</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts&amp;theme=light" width="42" height="42" alt="TypeScript logo" /><br /><sub>TypeScript</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter&amp;theme=light" width="42" height="42" alt="Flutter logo" /><br /><sub>Flutter</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dart&amp;theme=light" width="42" height="42" alt="Dart logo" /><br /><sub>Dart</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=unity&amp;theme=light" width="42" height="42" alt="Unity logo" /><br /><sub>Unity</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs&amp;theme=light" width="42" height="42" alt="C# logo" /><br /><sub>C#</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase&amp;theme=light" width="42" height="42" alt="Supabase logo" /><br /><sub>Supabase</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres&amp;theme=light" width="42" height="42" alt="PostgreSQL logo" /><br /><sub>PostgreSQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sentry&amp;theme=light" width="42" height="42" alt="Sentry logo" /><br /><sub>Sentry</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git&amp;theme=light" width="42" height="42" alt="Git logo" /><br /><sub>Git</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github&amp;theme=light" width="42" height="42" alt="GitHub logo" /><br /><sub>GitHub</sub></td>
+  </tr>
+</table>
 
 <!-- Uses established open-source components: https://github.com/tandpfun/skill-icons, https://github.com/DenverCoder1/readme-typing-svg, https://shields.io/ -->
