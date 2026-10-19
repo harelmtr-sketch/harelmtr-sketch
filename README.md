@@ -41,11 +41,7 @@ A 2D fighting game with flight, combos, and physics-based combat. Mostly an excu
 
 ## 🛠️ Tech behind the projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,react,ts,flutter,dart,unity,supabase,git&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift,react,ts,flutter,dart,unity,supabase,git&theme=light" />
-  <img alt="Swift, React, TypeScript, Flutter, Dart, Unity, Supabase and Git" src="https://skillicons.dev/icons?i=swift,react,ts,flutter,dart,unity,supabase,git&theme=light" />
-</picture>
+<img alt="Swift, React, TypeScript, Flutter, Dart, Unity, C#, Supabase, PostgreSQL, Sentry, Git and GitHub" src="https://skillicons.dev/icons?i=swift,react,ts,flutter,dart,unity,cs,supabase,postgres,sentry,git,github&amp;theme=light&amp;perline=6" />
 
 ## 🔭 Coming up
 
