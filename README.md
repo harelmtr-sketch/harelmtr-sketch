@@ -1,6 +1,14 @@
 <h1 align="center">Hey, I'm Harel 👋</h1>
 
 <p align="center">
+  <strong>Co-founder & CTO at Kinetic</strong><br />
+  <em>Building the home for calisthenics athletes.</em>
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091">
+    <img alt="Kinetic on the App Store" src="https://img.shields.io/badge/Kinetic-App%20Store-8B7CF6?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/harel-meltser-4a7157442/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -9,11 +17,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img alt="Co-founder and CTO at Kinetic; building mobile apps and games" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1100&color=2F81F7&center=true&vCenter=true&width=500&height=48&lines=Co-founder+%26+CTO+at+Kinetic;Making+mobile+apps+%26+games;Probably+starting+another+side+project" />
-</p>
-
-I co-founded **[Kinetic](https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091)**, a calisthenics app built around an interactive skill tree. I like turning random ideas into real apps, especially when there's a fun game mechanic or a tricky product problem involved.
+I love turning ambitious ideas into real apps, especially when there's a fun game mechanic or a challenging product problem involved. My main focus is **[Kinetic](https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091)**, which I co-founded to give calisthenics athletes the kind of platform I felt the sport was missing.
 
 Outside of building apps and games, I love traveling the world and exploring new places. 🌍
 
@@ -22,13 +26,26 @@ Outside of building apps and games, I love traveling the world and exploring new
 ### 🏋️ [Kinetic](https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091)
 **Co-founder & CTO · Live on the App Store**
 
-A calisthenics training app with a visual skill tree, skill progression, and competitive ranks. We originally built it with React Native/Expo. Now we're moving toward a **native rewrite monorepo**, starting with **SwiftUI + SpriteKit on iOS**, with **Kotlin for Android planned** next.
+> Other fitness apps help people get fit using calisthenics. **Kinetic helps people get better at calisthenics.**
+
+Kinetic is built for people who pursue calisthenics as a sport, whether they're working toward their first muscle-up or mastering advanced movements like the planche and front lever. The goal isn't just to work out. It's to unlock skills.
+
+Our interactive skill tree helps athletes see the path to their goals, track performances, earn ranks, and keep a record of what they've achieved. **Our vision is to become the go-to platform for the calisthenics community**, where athletes develop, record, and eventually showcase their abilities and connect with others in the sport.
+
+**Built with:** SwiftUI, SpriteKit, Supabase, and RevenueCat. Originally launched with React Native / Expo, then rebuilt natively for iOS.
+
+<p>
+  <a href="https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091">
+    <img alt="Download Kinetic" src="https://img.shields.io/badge/Explore%20Kinetic%20on%20the%20App%20Store-8B7CF6?style=flat-square&logo=apple&logoColor=white" />
+  </a>
+</p>
 
 ### ⏰ GymPal
 **Native iOS · In development / App Store review**
 
-A workout accountability app built with SwiftUI and WidgetKit. Home Screen and Lock Screen widgets make it easier to stick to a workout schedule.
+A workout accountability app built with SwiftUI and WidgetKit. Home Screen and Lock Screen widgets help people stick to the workouts they planned, even when life gets busy.
 
+## 🛠️ Tech behind the projects
 
 <table>
   <tr>
@@ -49,4 +66,4 @@ A workout accountability app built with SwiftUI and WidgetKit. Home Screen and L
   </tr>
 </table>
 
-<!-- Uses established open-source components: https://github.com/tandpfun/skill-icons, https://github.com/DenverCoder1/readme-typing-svg, https://shields.io/ -->
+<!-- Uses established open-source components: https://github.com/tandpfun/skill-icons and https://shields.io/ -->
