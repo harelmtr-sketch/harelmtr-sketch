@@ -29,17 +29,6 @@ A calisthenics training app with a visual skill tree, skill progression, and com
 
 A workout accountability app built with SwiftUI and WidgetKit. Home Screen and Lock Screen widgets make it easier to stick to a workout schedule.
 
-### 🪐 Planet Merge
-**Mobile game · In development**
-
-A planet-merging physics game built with Flutter, Flame, and Forge2D. Drop planets, merge matching ones, and try not to fill the board.
-
-### 🥊 Stickman Rivals
-**Unity · In development**
-
-A 2D fighting game with flight, combos, and physics-based combat. Mostly an excuse to spend too much time making punches feel right.
-
-## 🛠️ Tech behind the projects
 
 <table>
   <tr>
