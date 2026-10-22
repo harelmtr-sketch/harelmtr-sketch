@@ -20,6 +20,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img alt="Animated intro: Building Kinetic for calisthenics athletes; Turning ideas into apps and games; Probably starting another side project" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1100&color=8B7CF6&center=true&vCenter=true&width=650&height=48&lines=Building+Kinetic+for+calisthenics+athletes;Turning+ideas+into+apps+%26+games;Probably+starting+another+side+project" />
+</p>
+
 I love turning ambitious ideas into real apps, especially when there's a fun game mechanic or a challenging product problem involved. My main focus is **[Kinetic](https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091)**, which I co-founded to give calisthenics athletes the kind of platform I felt the sport was missing.
 
 Outside of building apps and games, I love traveling the world and exploring new places. 🌍
@@ -69,4 +73,4 @@ A workout accountability app built with SwiftUI and WidgetKit. Home Screen and L
   </tr>
 </table>
 
-<!-- Uses established open-source components: https://github.com/tandpfun/skill-icons and https://shields.io/ -->
+<!-- Uses established open-source components: https://github.com/tandpfun/skill-icons, https://github.com/DenverCoder1/readme-typing-svg, and https://shields.io/ -->
