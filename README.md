@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Harel 👋</h1>
+<h1 align="center">Hey, I'm Harel</h1>
 
 <p align="center">
   <strong>Co-founder & CTO at Kinetic</strong><br />
@@ -21,16 +21,16 @@
 </p>
 
 <p align="center">
-  <img alt="Animated intro: Building Kinetic for calisthenics athletes; Turning ideas into apps and games; Probably starting another side project" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1100&color=8B7CF6&center=true&vCenter=true&width=650&height=48&lines=Building+Kinetic+for+calisthenics+athletes;Turning+ideas+into+apps+%26+games;Probably+starting+another+side+project" />
+  <img alt="Animated intro: Building Kinetic for calisthenics athletes; Designing and shipping mobile apps; Probably starting another side project" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1100&color=8B7CF6&center=true&vCenter=true&width=650&height=48&lines=Building+Kinetic+for+calisthenics+athletes;Designing+and+shipping+mobile+apps;Probably+starting+another+side+project" />
 </p>
 
-I love turning ambitious ideas into real apps, especially when there's a fun game mechanic or a challenging product problem involved. My main focus is **[Kinetic](https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091)**, which I co-founded to give calisthenics athletes the kind of platform I felt the sport was missing.
+I turn ambitious ideas into polished mobile apps, from early prototypes to products used by real people. My main focus is **[Kinetic](https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091)**, which I co-founded to give calisthenics athletes the kind of platform I felt the sport was missing.
 
-Outside of building apps and games, I love traveling the world and exploring new places. 🌍
+Outside of building apps, I love traveling the world and exploring new places.
 
-## 🚀 What I'm building
+## What I'm building
 
-### 🏋️ [Kinetic](https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091)
+### <img src="https://skillicons.dev/icons?i=swift&amp;theme=light" width="23" height="23" alt="Swift logo" /> [Kinetic](https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091)
 **Co-founder & CTO · Live on the App Store**
 
 > Other fitness apps help people get fit using calisthenics. **Kinetic helps people get better at calisthenics.**
@@ -41,18 +41,12 @@ Our interactive skill tree helps athletes see the path to their goals, track per
 
 **Built with:** SwiftUI, SpriteKit, Supabase, and RevenueCat. Originally launched with React Native / Expo, then rebuilt natively for iOS.
 
-<p>
-  <a href="https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091">
-    <img alt="Download Kinetic" src="https://img.shields.io/badge/Explore%20Kinetic%20on%20the%20App%20Store-8B7CF6?style=flat-square&logo=apple&logoColor=white" />
-  </a>
-</p>
-
-### ⏰ GymPal
+### <img src="https://cdn.simpleicons.org/apple/8B7CF6" width="23" height="23" alt="Apple WidgetKit icon" /> GymPal
 **Native iOS · In development / App Store review**
 
 A workout accountability app built with SwiftUI and WidgetKit. Home Screen and Lock Screen widgets help people stick to the workouts they planned, even when life gets busy.
 
-## 🛠️ Tech behind the projects
+## Tech behind the projects
 
 <table>
   <tr>
@@ -61,10 +55,8 @@ A workout accountability app built with SwiftUI and WidgetKit. Home Screen and L
     <td align="center"><img src="https://skillicons.dev/icons?i=ts&amp;theme=light" width="42" height="42" alt="TypeScript logo" /><br /><sub>TypeScript</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=flutter&amp;theme=light" width="42" height="42" alt="Flutter logo" /><br /><sub>Flutter</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=dart&amp;theme=light" width="42" height="42" alt="Dart logo" /><br /><sub>Dart</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=unity&amp;theme=light" width="42" height="42" alt="Unity logo" /><br /><sub>Unity</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cs&amp;theme=light" width="42" height="42" alt="C# logo" /><br /><sub>C#</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=supabase&amp;theme=light" width="42" height="42" alt="Supabase logo" /><br /><sub>Supabase</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres&amp;theme=light" width="42" height="42" alt="PostgreSQL logo" /><br /><sub>PostgreSQL</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=sentry&amp;theme=light" width="42" height="42" alt="Sentry logo" /><br /><sub>Sentry</sub></td>
