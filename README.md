@@ -9,6 +9,9 @@
   <a href="https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091">
     <img alt="Kinetic on the App Store" src="https://img.shields.io/badge/Kinetic-App%20Store-8B7CF6?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
+  <a href="#portfolio-coming-soon" title="Personal website coming soon">
+    <img alt="Portfolio coming soon" src="https://img.shields.io/badge/Portfolio-Coming%20Soon-64748B?style=for-the-badge&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/harel-meltser-4a7157442/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
