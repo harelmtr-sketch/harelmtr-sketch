@@ -44,10 +44,16 @@ I co-founded Kinetic with **[Ilay Gibor](https://github.com/ilaygibor)**, who le
 
 **[View the project showcase](https://github.com/harelmtr-sketch/kinetic-showcase) · [Try Kinetic on the App Store](https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091)**
 
-### <img src="https://cdn.simpleicons.org/apple/8B7CF6" width="23" height="23" alt="Apple WidgetKit icon" /> GymPal
-**Native iOS · In development / App Store review**
+### <img src="https://cdn.simpleicons.org/apple/8B7CF6" width="23" height="23" alt="Apple WidgetKit icon" /> [GymPal](https://github.com/harelmtr-sketch/Gympal-showcase)
+**Native iOS · In development**
 
-A workout accountability app built with SwiftUI and WidgetKit. Home Screen and Lock Screen widgets help people stick to the workouts they planned, even when life gets busy.
+A mascot-led workout accountability app built with SwiftUI and WidgetKit. It keeps planned workouts visible through iPhone widgets, with an expressive coach, a native gym map, and a location-aware check-in.
+
+**What I built:** The character-led interface and animations, Apple Maps gym discovery, photo and proximity check-in, and app/widget accountability interactions. Built collaboratively with [Ilay Gibor](https://github.com/ilaygibor).
+
+**Built with:** Swift, SwiftUI, WidgetKit, App Intents, MapKit, and Supabase. The production source remains private.
+
+**[View the GymPal showcase](https://github.com/harelmtr-sketch/Gympal-showcase)**
 
 ## Tech behind the projects
 
