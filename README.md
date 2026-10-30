@@ -27,7 +27,7 @@ Outside of building apps, I love traveling the world and exploring new places.
 
 ## What I'm building
 
-### <img src="https://skillicons.dev/icons?i=swift&amp;theme=light" width="23" height="23" alt="Swift logo" /> [Kinetic](https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091)
+### <img src="https://skillicons.dev/icons?i=swift&amp;theme=light" width="23" height="23" alt="Swift logo" /> [Kinetic](https://github.com/harelmtr-sketch/kinetic-showcase)
 **Co-founder & CTO · Live on the App Store**
 
 Kinetic helps people discover calisthenics skills, understand their prerequisites, and track progression from their first pull-up to advanced movements.
@@ -42,7 +42,7 @@ I co-founded Kinetic with **[Ilay Gibor](https://github.com/ilaygibor)**, who le
 
 **Built with:** Swift, SwiftUI, SpriteKit, Supabase, RevenueCat, and PostHog. The production source code is private.
 
-**[Try Kinetic on the App Store](https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091)**
+**[View the project showcase](https://github.com/harelmtr-sketch/kinetic-showcase) · [Try Kinetic on the App Store](https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091)**
 
 ### <img src="https://cdn.simpleicons.org/apple/8B7CF6" width="23" height="23" alt="Apple WidgetKit icon" /> GymPal
 **Native iOS · In development / App Store review**
