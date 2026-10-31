@@ -21,7 +21,7 @@
   <img alt="Animated intro: Building Kinetic for calisthenics athletes; Designing and shipping mobile apps" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1100&color=8B7CF6&center=true&vCenter=true&width=650&height=48&lines=Building+Kinetic+for+calisthenics+athletes;Designing+and+shipping+mobile+apps" />
 </p>
 
-I’m Harel Meltser, co-founder and CTO of **[Kinetic](https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091)**. I lead engineering, working across native iOS development, interactive interfaces, and backend integrations. Kinetic is my main focus.
+I’m Harel Meltser, co-founder and CTO of **[Kinetic](https://apps.apple.com/us/app/kinetic-calisthenics-training/id6766755091)**. I lead engineering across native iOS, interactive interfaces, and backend systems. I also build games and consumer-app prototypes, and I co-founded a game-development YouTube channel with 30,000 subscribers. **Kinetic is my main focus.**
 
 Outside of building apps, I love traveling the world and exploring new places.
 
@@ -54,6 +54,30 @@ A mascot-led workout accountability app built with SwiftUI and WidgetKit. It kee
 **Built with:** Swift, SwiftUI, WidgetKit, App Intents, MapKit, and Supabase. The production source remains private.
 
 **[View the GymPal showcase](https://github.com/harelmtr-sketch/Gympal-showcase)**
+
+## More things I've built
+
+**Planet Merge · Mobile puzzle game · Flutter, Flame**
+
+A physics-based game where matching planets fall, collide, and merge. I built the gameplay and scoring systems, persistent progression, and rewarded-ad integration. The source code is private.
+
+**Playdate · Private dating-app prototype**
+
+A social-game-first dating concept: two people play a short game and mutually decide whether to reveal their profiles and continue chatting. I built matchmaking, synchronized game sessions, and messaging. Not publicly released.
+
+**Least · Collaborative prototype · Flutter, Android**
+
+A private, week-long competition app designed to help friends reduce scrolling. I worked on the mobile interface and early competition infrastructure, including Android app-usage tracking.
+
+## Beyond software
+
+**[Mr. Cat](https://www.youtube.com/@MrCatz1) · Co-founder and video producer**
+
+Co-founded a game-development YouTube channel that reached **30,000 subscribers, 5M+ views, and $17,000+ in channel revenue**. I narrated, recorded, and edited every video, working with my cofounder on ideas, scripts, and game-development content.
+
+**Training Insight · Founder, Guild Wars 2 training community**
+
+Built and ran a player-training guild that organized **hundreds of events**. I recruited trainers, shared paid-session fees in in-game gold, and reserved 2–4 seats per ten-player event for newcomers to try training for free. Those trial seats helped turn existing events into a repeatable way to recruit future customers.
 
 ## Tech behind the projects
 
